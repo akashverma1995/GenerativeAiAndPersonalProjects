@@ -1,0 +1,12 @@
+1. create a new venv
+python -m venv GenAi
+
+2. activate venv
+GenAi\Scripts\Activate
+
+3. create requirments.txt
+
+4. install packages from requirements.txt
+pip install -r requirements.txt
+
+5. verify Langchain installations
